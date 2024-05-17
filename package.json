@@ -5,7 +5,7 @@
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp",
-    "build": "gulp sass --output public"
+    "build": "gulp --output public"
   },
   "author": "Foundation Yetinauts <contact@get.foundation> (https://get.foundation)",
   "license": "MIT",
